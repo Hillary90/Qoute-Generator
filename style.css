@@ -11,4 +11,20 @@ body {
   align-items: center;
   height: 100vh;
   text-align: center;
+  background-image: url(/imagess/18da9ec5c95dfbc89c45cdeafd692eb1.jpg);
+}
+
+.container {
+  width: 550px;
+  height: 450px;
+}
+
+.header {
+  font-size: 1.2rem;
+  border: 2px solid #fff;
+  color: aliceblue;
+  background-color: #333;
+  width: 80%;
+  padding: 5px;
+  border-radius: 20px
 }
